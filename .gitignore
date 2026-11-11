@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.qodo/
+users.db
+.env
+.venv/
+venv/
+Thumbs.db
